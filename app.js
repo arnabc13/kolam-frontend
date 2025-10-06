@@ -3,7 +3,7 @@
 // 🔧 CONFIGURATION SECTION - UPDATE THIS FOR LOCAL DEPLOYMENT
 // ============================================================================
 const CONFIG = {
-    API_BASE_URL: 'https://splendid-solace-production-da63.up.railway.app',  // ← CHANGE THIS LINE FOR YOUR BACKEND
+    API_BASE_URL: 'https://web-production-06d8.up.railway.app/',  // ← CHANGE THIS LINE FOR YOUR BACKEND
     API_ENDPOINTS: {
         GENERATE: '/api/generate',
         HEALTH: '/api/health'
